@@ -1,9 +1,7 @@
 # Restaurant-Order-Analysis-in-SQL
 This project focuses on analysing customer ordering patterns in a restaurant that has recently launched a new menue. Using SQL, I explored how customers responded to the new items, which dishes performed well, and which ones underperformed.
 
-**Objective**
-
-**The objectives were the followinh:**
+**The objectives were the following:**
 
 Explore the menu_items table to understand the new menu.
 
